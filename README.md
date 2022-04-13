@@ -1,6 +1,6 @@
 # Robotoff models
 
-This repository contains [releases](https://github.com/openfoodfacts/robotoff-models/releases) of models deployed in production on [Robotoff](https://github.com/openfoodfacts/robotoff).
+This repository contains [releases](https://github.com/openfoodfacts/robotoff-models/releases) of models deployed in production on [Robotoff](https://github.com/openfoodfacts/robotoff), the machine learning component of Open Food Facts.
 
 # Current models
 * [tf-universal-logo-detector-1.0](https://github.com/openfoodfacts/robotoff-models/releases/tag/tf-universal-logo-detector-1.0)
