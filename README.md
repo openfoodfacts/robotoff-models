@@ -3,7 +3,7 @@
 This repository contains [releases](https://github.com/openfoodfacts/robotoff-models/releases) of models deployed in production on [Robotoff](https://github.com/openfoodfacts/robotoff), the machine learning component of Open Food Facts.
 
 # Current models
-* [tf-universal-logo-detector-1.0](https://github.com/openfoodfacts/robotoff-models/releases/tag/tf-universal-logo-detector-1.0)
+* [tf-universal-logo-detector-1.0](https://github.com/openfoodfacts/robotoff-models/releases/tag/tf-universal-logo-detector-1.0) related to [robotoff-ann](https://github.com/openfoodfacts/robotoff-ann)
 * [tf-nutrition-table-1.0](https://github.com/openfoodfacts/robotoff-models/releases/tag/tf-nutrition-table-1.0)
 * [tf-nutriscore-1.0](https://github.com/openfoodfacts/robotoff-models/releases/tag/tf-nutriscore-1.0)
 * [keras-category-classifier-xx-2.0](https://github.com/openfoodfacts/robotoff-models/releases/tag/keras-category-classifier-xx-2.0)
