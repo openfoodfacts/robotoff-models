@@ -1,6 +1,7 @@
 # Robotoff models
 
-This repository contains [releases](https://github.com/openfoodfacts/robotoff-models/releases) of models deployed in production on [Robotoff](https://github.com/openfoodfacts/robotoff), the machine learning component of Open Food Facts.
+This repository used to contain [releases](https://github.com/openfoodfacts/robotoff-models/releases) of models deployed in production on [Robotoff](https://github.com/openfoodfacts/robotoff), the machine learning component of Open Food Facts.
+We now use exclusively Hugging Face [models](https://huggingface.co/openfoodfacts) and [datasets](https://huggingface.co/datasets/openfoodfacts/).
 
 # Current models
 * [tf-universal-logo-detector-1.0](https://github.com/openfoodfacts/robotoff-models/releases/tag/tf-universal-logo-detector-1.0) related to [robotoff-ann](https://github.com/openfoodfacts/robotoff-ann), some additional info in [this openfoodfacts-ai directory](https://github.com/openfoodfacts/openfoodfacts-ai/tree/develop/logo-ann)
